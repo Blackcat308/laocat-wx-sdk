@@ -12,25 +12,25 @@ public interface ThirdPartyQyWechatConstant {
     /**
      * 众平台上，开发者设置的token  通用
      */
-    String GENERAL_TOKEN = "Gr4PNa6";
+    String GENERAL_TOKEN = "";
     /**
      * 公众平台上，开发者设置的EncodingAESKey 通用
      */
-    String GENERAL_ENCODINGAESKEY = "CP9vKSqaHcJAxvlyqnamO6fK3OQwITVd67gLDc1Yna4";
+    String GENERAL_ENCODINGAESKEY = "";
     /**
      * 公众平台appid 通用
      */
-    String GENERAL_APPID = "ww3f86f24eb16f029e";
+    String GENERAL_APPID = "";
     /**
      * 众平台上，开发者设置的token  应用
      */
-    String APP_TOKEN = "KAOc4ip";
+    String APP_TOKEN = "";
     /**
      * 公众平台上，开发者设置的EncodingAESKey 应用
      */
-    String APP_ENCODINGAESKEY = "QK0e0u1RSAgXD5bsBk5WtQnvgPBDdWQ8w9Moq9LP7kN";
+    String APP_ENCODINGAESKEY = "";
     /**
      * 众平台appid 应用的
      */
-    String APP_APPID = "wwfede9a1cdac68225";
+    String APP_APPID = "";
 }
